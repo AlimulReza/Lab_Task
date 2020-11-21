@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<books>
+  <book>
+    <sr_no>1</sr_no>
+    <Name>Business Communication</Name>
+    <Publisher>Reza</Publisher>
+    <ISBN>12345</ISBN>
+    <PRICE>250</PRICE>
+    <IMAGE>resources/book_default.png</IMAGE>
+    <DELETe>resources/drop.png</DELETe>
+  </book>
+  <book>
+    <sr_no>2</sr_no>
+    <Name>Computer Architecture</Name>
+    <Publisher>Alimul</Publisher>
+    <ISBN>1234</ISBN>
+    <PRICE>500</PRICE>
+    <IMAGE>resources/book_default.png</IMAGE>
+    <DELETe>resources/drop.png</DELETe>
+  </book>
+</books>

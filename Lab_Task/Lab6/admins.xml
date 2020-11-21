@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<users>
+  
+  <user>
+    <name>Md. Alimul Reza</name>
+    <username>Reza2802</username>
+    <password>Alimul#123</password>
+    <gender>Male</gender>
+    <email>abc@gmail.com</email>
+    <contact>08997978988</contact>
+    <city>Dhaka</city>
+    <type>user</type>
+  </user>
+</users>
